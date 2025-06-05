@@ -1,0 +1,43 @@
+header
+{
+    background-color: beige;
+}
+h1
+{
+    color:blue;
+    font-size: xx-large;
+    font-family: cursive;
+    text-align: center;
+
+
+}
+body
+{
+
+ background-color: rgb(185, 118, 154);  
+ 
+}
+h2.moda
+{
+    text-align: center
+}
+li
+{
+    color: rgb(58, 14, 99);
+}
+pre
+{
+    color: rgb(77, 38, 11);
+    text-align: center;
+    font-family: fantasy;
+}
+p
+{
+    color: rgb(32, 51, 158);
+    font-size: larger;
+
+}
+footer
+{
+    background-color: rgb(116, 190, 166);
+}
